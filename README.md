@@ -2,7 +2,7 @@
 
 ## Usage
 ``
-$ brew tap TakuyaOkada/misc
+$ brew tap kosukeohatabita/misc
 ``
 
 ## Subversionutf8
